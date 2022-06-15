@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: KafkaProducerWikimedia
-
-server:
-  port: 8081
