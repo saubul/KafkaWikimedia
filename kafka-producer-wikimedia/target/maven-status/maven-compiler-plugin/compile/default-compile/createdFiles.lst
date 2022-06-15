@@ -1,0 +1,4 @@
+ru\saubulprojects\kafkaproducerwikimeida\handler\WikimediaChangesHandler.class
+ru\saubulprojects\kafkaproducerwikimeida\configuration\KafkaTopicConfig.class
+ru\saubulprojects\kafkaproducerwikimeida\KafkaProducerWikimediaApplication.class
+ru\saubulprojects\kafkaproducerwikimeida\service\WikimediaChangesProducer.class
